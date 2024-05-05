@@ -116,7 +116,7 @@
                 <version>0.4.0</version>
                 <extensions>true</extensions>
                 <configuration>
-                    <publishingServerId>central</publishingServerId>
+                    <publishingServerId>maven</publishingServerId>
                     <tokenAuth>true</tokenAuth>
                 </configuration>
             </plugin>
