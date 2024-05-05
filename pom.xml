@@ -113,7 +113,7 @@
 
     <profiles>
         <profile>
-            <id>publish-sonatye</id>
+            <id>publish-sonatype</id>
             <build>
                 <plugins>
                     <plugin>
