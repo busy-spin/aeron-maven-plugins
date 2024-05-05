@@ -132,6 +132,7 @@
                             <goal>sign</goal>
                         </goals>
                         <configuration>
+                            <keyname>gpg.passphrase</keyname>
                             <passphraseServerId>gpg.passphrase</passphraseServerId>
                             <gpgArguments>
                                 <arg>--pinentry-mode</arg>
