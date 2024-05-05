@@ -132,7 +132,7 @@
                             <goal>sign</goal>
                         </goals>
                         <configuration>
-                            <!-- Prevent gpg from using pinentry programs -->
+                            <passphraseServerId>gpg.passphrase</passphraseServerId>
                             <gpgArguments>
                                 <arg>--pinentry-mode</arg>
                                 <arg>loopback</arg>
