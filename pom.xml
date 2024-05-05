@@ -66,6 +66,32 @@
         </dependencies>
     </dependencyManagement>
 
+    <developers>
+        <developer>
+            <id>Isuru</id>
+            <name>Isuru Anuranga</name>
+            <email>isurudevj@gmail.com</email>
+            <organization>BusySpin-Github</organization>
+            <organizationUrl>https://busy-spin.github.io/</organizationUrl>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+            <timezone>+8</timezone>
+
+            <!--<properties>
+                <picUrl>https://avatars3.githubusercontent.com/u/16254748</picUrl>
+            </properties>-->
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/aeron-maven-plugins.git</connection>
+        <developerConnection>scm:git:git://github.com/aeron-maven-plugins.git</developerConnection>
+        <url>https://github.com/aeron-maven-plugins.git</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <build>
         <pluginManagement>
             <plugins>
