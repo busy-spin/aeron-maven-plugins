@@ -7,6 +7,8 @@
     <groupId>io.github.busy-spin</groupId>
     <artifactId>aeron-maven-plugins</artifactId>
     <version>1.0.0</version>
+    <url>https://busy-spin.github.io</url>
+    <description>Real Logic Aeron and Artio maven plugins</description>
     <packaging>pom</packaging>
 
     <properties>
@@ -72,7 +74,7 @@
             <name>Isuru Anuranga</name>
             <email>isurudevj@gmail.com</email>
             <organization>BusySpin-Github</organization>
-            <organizationUrl>https://busy-spin.github.io/</organizationUrl>
+            <organizationUrl>https://busy-spin.github.io</organizationUrl>
             <roles>
                 <role>architect</role>
                 <role>developer</role>
