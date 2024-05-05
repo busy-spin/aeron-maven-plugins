@@ -9,6 +9,12 @@
     <version>1.0.0</version>
     <url>https://busy-spin.github.io</url>
     <description>Real Logic Aeron and Artio maven plugins</description>
+    <licenses>
+        <license>
+            <name>MIT</name>
+            <url>https://github.com/busy-spin/aeron-maven-plugins/blob/master/LICENSE</url>
+        </license>
+    </licenses>
     <packaging>pom</packaging>
 
     <properties>
