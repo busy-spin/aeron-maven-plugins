@@ -1,4 +1,4 @@
-package com.github.iaw.artio.code_generator;
+package io.github.busy_spin.artio.code_generator;
 
 import uk.co.real_logic.artio.dictionary.generation.CodecConfiguration;
 import uk.co.real_logic.artio.dictionary.generation.CodecGenerator;

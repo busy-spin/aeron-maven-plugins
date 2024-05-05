@@ -1,4 +1,4 @@
-package com.github.iaw.artio.code_generator;
+package io.github.busy_spin.artio.code_generator;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;

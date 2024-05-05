@@ -1,4 +1,4 @@
-package com.github.iaw.artio.sbe;
+package io.github.busy_spin.sbe;
 
 import org.agrona.DirectBuffer;
 import org.agrona.MutableDirectBuffer;

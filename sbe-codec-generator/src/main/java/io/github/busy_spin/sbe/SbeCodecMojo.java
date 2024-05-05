@@ -1,4 +1,4 @@
-package com.github.iaw.artio.sbe;
+package io.github.busy_spin.sbe;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
