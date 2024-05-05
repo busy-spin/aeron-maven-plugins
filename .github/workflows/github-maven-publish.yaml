@@ -29,6 +29,11 @@ jobs:
       - name: Cat the settings.xml
         run: cat /home/runner/.m2/settings.xml
 
+      - name: Print env
+        run: echo $MAVEN_GPG_PASSPHRASE
+        env:
+          MAVEN_GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+
       - name: Publish to Apache Maven Central
         run: mvn deploy
         env:
